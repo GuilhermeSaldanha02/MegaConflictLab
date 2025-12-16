@@ -1,5 +1,6 @@
 {
   "appName": "MegaConflictLab",
   "version": "1.0.0",
-  "environment": "staging"
+  "environment": "staging",
+  "notifications": { "email": true, "sms": false }
 }
