@@ -4,6 +4,7 @@
   "environment": "staging",
   "auth": { "jwt": true, "expiration": 3600 },
   "users": { "profile": true, "avatar": true },
+  "payments": { "provider": "stripe", "currency": "BRL" },
   "stock": { "control": true },
   "shipping": { "calculator": "default" },
   "notifications": { "email": true, "sms": false },
