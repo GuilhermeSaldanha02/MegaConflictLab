@@ -4,7 +4,8 @@ function startApp() {
     console.log("Payments carregados");
     console.log("Stock carregado");
     console.log("Shipping carregado");  
-    
+    console.log("Security carregado");
+    console.log("Logging carregado");
 }
 
 startApp();

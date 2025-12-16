@@ -8,4 +8,9 @@
   "stock": { "control": true },
   "shipping": { "calculator": "default" },
 }
+  "security": { "rateLimit": true },
+  "logging": { "level": "debug" }
+}
+
+  
 
