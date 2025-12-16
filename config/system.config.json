@@ -2,14 +2,11 @@
   "appName": "MegaConflictLab",
   "version": "1.0.0",
   "environment": "staging",
-
-  "users": { "profile": true, "avatar": true },
   "auth": { "jwt": true, "expiration": 3600 },
+  "users": { "profile": true, "avatar": true },
   "stock": { "control": true },
   "shipping": { "calculator": "default" },
+  "notifications": { "email": true, "sms": false },
   "security": { "rateLimit": true },
-  "logging": { "level": "debug" }
+  "logging": { "level": "debug" }  
 }
-
-  
-
