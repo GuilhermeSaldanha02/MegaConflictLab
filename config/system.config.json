@@ -4,13 +4,11 @@
   "environment": "staging",
   "auth": { "jwt": true, "expiration": 3600 },
   "users": { "profile": true, "avatar": true },
-  "payments": { "provider": "stripe", "currency": "BRL" }
+  "payments": { "provider": "stripe", "currency": "BRL" },
   "stock": { "control": true },
-  "shipping": { "calculator": "default" },
-}
-  "security": { "rateLimit": true },
+  "shipping": { "calculator": "default" }
   "logging": { "level": "debug" }
 }
-
+  
   
 
