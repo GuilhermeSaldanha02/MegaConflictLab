@@ -7,17 +7,9 @@
   "auth": { "jwt": true, "expiration": 3600 },
   "stock": { "control": true },
   "shipping": { "calculator": "default" },
-<<<<<<< HEAD
-  "security": { "rateLimit": true }
-}
-  
-
-
-=======
+  "security": { "rateLimit": true },
   "logging": { "level": "debug" }
 }
-  
 
   
->>>>>>> 13888a8e5845341af808320ebc3b0acb08e9e2f1
 
