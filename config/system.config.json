@@ -1,5 +1,8 @@
 {
   "appName": "MegaConflictLab",
   "version": "1.0.0",
-  "environment": "staging"
+  "environment": "staging",
+  "stock": { "control": true }
+  
 }
+
