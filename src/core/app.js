@@ -5,6 +5,7 @@ function startApp() {
     console.log("Users carregados");
      console.log("Stock carregado");
     console.log("Shipping carregado");  
+    console.log("Logging carregado");
 }
 
 startApp();
