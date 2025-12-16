@@ -4,6 +4,7 @@ function startApp() {
     console.log("Auth carregado");
      console.log("Stock carregado");
     console.log("Shipping carregado");  
+    console.log("Logging carregado");
 }
 
 startApp();
