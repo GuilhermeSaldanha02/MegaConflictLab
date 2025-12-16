@@ -4,5 +4,8 @@
   "environment": "staging",
   "users": { "profile": true, "avatar": true },
   "auth": { "jwt": true, "expiration": 3600 },
+  "stock": { "control": true },
   "shipping": { "calculator": "default" }
 }
+  
+
