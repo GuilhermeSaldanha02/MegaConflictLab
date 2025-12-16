@@ -2,5 +2,6 @@
   "appName": "MegaConflictLab",
   "version": "1.0.0",
   "environment": "staging",
+  "users": { "profile": true, "avatar": true },
   "auth": { "jwt": true, "expiration": 3600 }
 }
